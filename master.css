@@ -1,0 +1,76 @@
+body{
+  background-color: black;
+  font-family: "DejaVu", Sans, Mono;
+}
+div{
+  margin-right: auto;
+  margin-left: auto;
+}
+.heading{
+  height: 23px;
+  width: 110px;
+  float: left;
+}
+.headin{
+  height: 23px;
+  width: 330px;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  font-family: "DejaVu", Sans, Mono;
+  color: #333;
+}
+a:hover{
+  color: #fff;
+}
+pre{
+  color: white;
+  float: left;
+}
+.logo{
+  width: 200px;
+  height: 200px;
+
+}
+h6{
+  float: right;
+  color: white;
+  width: 100px;
+  height: 10px;
+  font-size: 70px;
+  font-family: "DejaVu", Sans, Mono;
+}
+.whatdo{
+  width: 600px;
+  text-align: left;
+  color: white;
+}
+h5{
+  color: #333;
+}
+.h5{
+  color: #333;
+}
+#platform{
+  width: 600px;
+}
+h1,h4{
+  color: white;
+}
+#price{
+
+}
+#con{
+
+}
+#prom{
+
+}
+table, td, th {
+  border: 1px solid white;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
